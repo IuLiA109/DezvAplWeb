@@ -11,7 +11,8 @@ namespace tema_lab1
         public string Titlu { get; set; }
         public string Durata { get; set; }
 
-        public void Afisare() {
+        public void Afisare() 
+        {
             Console.WriteLine($"Titlu: {Titlu}, Durata: {Durata}");
         }
     }

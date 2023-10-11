@@ -60,12 +60,10 @@ var stud3 = new Student()
     Materii = new List<Materie> { mat3, mat4, mat1 }
 };
 
-
-//stud3.Afisaree();
-
 var Studenti = new List<Student> { stud1, stud2, stud3};
 
-foreach (Student stud in Studenti) {
+foreach (Student stud in Studenti) 
+{
     stud.Afisaree();
     Console.WriteLine('\n');
 }

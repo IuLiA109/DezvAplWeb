@@ -18,9 +18,11 @@ namespace tema_lab1
         public void Afisaree()
         {
             Console.WriteLine($"Nume: {Nume}, Prenume: {Prenume}, Varsta: {Varsta}");
-            if (Materii != null) {
+            if (Materii != null) 
+            {
                 Console.WriteLine("Materii: ");
-                foreach (Materie mat in Materii) { 
+                foreach (Materie mat in Materii) 
+                { 
                     mat.Afisare();  
 
                 }
