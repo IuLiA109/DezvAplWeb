@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5y7mGrg06xaOXJxBK2XiScNjLY4B3D6+rZVCUrcisqIKVq0StVBGXqgPJmu7wDrD7Wgm3mrHa/aHRKerkDYFeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Iulia\\source\\repos\\DezvAplWeb\\lab2\\lab2\\lab2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iulia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
