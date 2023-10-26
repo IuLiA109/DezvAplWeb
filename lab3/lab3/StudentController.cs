@@ -39,8 +39,7 @@ namespace lab3
             var studentToUpdate = students.FirstOfDefault(student => student.Id.Equals(id));
             student.ApplyTo()
         
-        }    
-    
+        }   
     }
 
 }
