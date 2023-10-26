@@ -8,13 +8,13 @@ namespace lab3
 
     }
 
-    public Student GetWithFilters(string name, int age) { 
-        return 
+    public Student GetWithFilters(string name, int age) {
+        return
 
     }
 
     [HttpGet("fromRouteWithId/{id}")]
-    public Strudent GetById([FromRoute]int id) {
+    public Strudent GetById([FromRoute] int id) {
         return StudentController.FirstOrDefault(string=> string.Id.Eqyals(id));
 
     }
@@ -26,5 +26,21 @@ namespace lab3
 
     }
 
+    [HttpPost("fromBody")]
+    public IActionResult AddWithFromBody([FromBody] StudentController student)
+    {
+        students.Add(student);
+        return Ok(students);
+    }
+
+    [HttpPatch]
+    public IActionresult Patch([FromRoute] int id, [FromBody] JsonpatchDocument<Student> student){
+        if (student != null) {
+            var studentToUpdate = students.FirstOfDefault(student => student.Id.Equals(id));
+            student.ApplyTo()
+        
+        }    
+    
+    }
 
 }
