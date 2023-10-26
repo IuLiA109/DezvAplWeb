@@ -1,0 +1,7 @@
+C:\Users\Iulia\source\repos\DezvAplWeb\lab3_ex2\lab3_ex2\obj\Debug\net6.0\lab3_ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iulia\source\repos\DezvAplWeb\lab3_ex2\lab3_ex2\obj\Debug\net6.0\lab3_ex2.AssemblyInfoInputs.cache
+C:\Users\Iulia\source\repos\DezvAplWeb\lab3_ex2\lab3_ex2\obj\Debug\net6.0\lab3_ex2.AssemblyInfo.cs
+C:\Users\Iulia\source\repos\DezvAplWeb\lab3_ex2\lab3_ex2\obj\Debug\net6.0\lab3_ex2.csproj.CoreCompileInputs.cache
+C:\Users\Iulia\source\repos\DezvAplWeb\lab3_ex2\lab3_ex2\obj\Debug\net6.0\lab3_ex2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Iulia\source\repos\DezvAplWeb\lab3_ex2\lab3_ex2\obj\Debug\net6.0\lab3_ex2.RazorAssemblyInfo.cache
+C:\Users\Iulia\source\repos\DezvAplWeb\lab3_ex2\lab3_ex2\obj\Debug\net6.0\lab3_ex2.RazorAssemblyInfo.cs
